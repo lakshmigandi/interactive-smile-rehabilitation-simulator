@@ -1,0 +1,15 @@
+gradio==5.0.0
+
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+
+faiss-cpu
+pypdf
+
+sentence-transformers
+transformers
+torch
+
+huggingface_hub
